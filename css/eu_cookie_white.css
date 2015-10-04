@@ -1,0 +1,21 @@
+#hi-eu-opt-in .opt-in-splash.unconfirmed {
+	background: url("hi-cookie-white-sprite.png") no-repeat scroll 0 -10px transparent;
+}
+#hi-eu-opt-in .opt-in-splash.confirmed {
+	background: url("hi-cookie-white-sprite.png") no-repeat scroll 0 -68px transparent;
+}
+
+#hi-cookie-box {
+	background: url(hi-cookie-white-sprite.png) no-repeat -64px 0;
+	color:#333;
+}
+#hi-cookie-close  {background: #fff}
+#hi-cookie-close:hover {background:#ddd;color:#333!important}
+#hi-cookie-box .hi-cookie-intro {color:#666}
+#hi-cookie-box a{color:#333}
+#hi-cookie-box a:hover {color:#111}
+#hi-cookie-box div.hi-cookie-btn {background:url(hi-cookie-white-sprite.png)no-repeat 0 -126px;}
+#hi-cookie-box div.hi-cookie-btn.agree {background-position: 0 -126px;}
+#hi-cookie-box div.hi-cookie-btn.disagree {background-position: -32px -126px}
+#hi-cookie-box div.hi-cookie-btn.agree:hover {background-position: 0 -158px}
+#hi-cookie-box div.hi-cookie-btn.disagree:hover {background-position: -32px -158px}
